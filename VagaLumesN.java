@@ -1,4 +1,4 @@
-package Vaga-lumes;
+package VagaLumes;
 
 import robocode.*;
 import java.awt.Color;
