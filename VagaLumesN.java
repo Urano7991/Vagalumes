@@ -3,6 +3,7 @@ package VagaLumes;
 import robocode.*;
 import java.awt.Color;
 import java.util.Random;
+import robocode.util.Utils;
 
 public class VagaLumesN extends AdvancedRobot {
 
