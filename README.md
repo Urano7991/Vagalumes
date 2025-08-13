@@ -1,2 +1,2 @@
 # Vagalumes
-## Projeto Robocode na Faculdade anhanguera
+Projeto Robocode na Faculdade anhanguera
